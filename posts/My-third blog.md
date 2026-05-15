@@ -8,6 +8,7 @@ tags:
   - SystemDesign
   - DatabaseThinking
 ---
+
 Then, I started thinking more seriously about how the system should actually work. At first, I imagined the platform as a normal online community where users could freely share stories and experiences. However, after thinking more carefully about it, I realised that relying only on free-form posts would create several problems.
 
 If most users only write long discussion posts, other users may struggle to quickly find useful information when using the matching feature. Many important details could become buried under large amounts of text, which would make searching very difficult. Different users may also describe the same issue in completely different ways, which would make filtering and matching less accurate.
