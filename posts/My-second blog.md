@@ -8,6 +8,7 @@ tags:
   - PetProfiles
   - AIDesign
 ---
+
 After deciding that the final focus of my project would be pet separation anxiety, the next step was defining how this community should actually function. I believe the most important part of this platform should not simply be posting or browsing content, but helping users match with suitable solutions and gain more practical experience and knowledge. This gradually became the core feature of the project, which I call the “Pet Situation Matching System.
 
 The most important part of this system is the creation of a pet profile. When users first join the community, the platform will guide them to build a profile for their pet. This profile may include information such as the pet type, age, temperament, common behaviours, and how long the pet is usually left home alone. This would make the overall experience more personalised and also allow the platform to continuously recommend more relevant cases over time. I also considered that pets’ behaviours and daily routines may change over time, so the website would regularly remind users to update their profiles. This helps the recommendations stay up to date and allows the system to match based on the pet’s current condition rather than relying on outdated information.
